@@ -24,7 +24,7 @@
 { "name": "Черкаська область", "english": "Cherkasy oblast", "short": "CA", "country": "UA" },
 { "name": "Чернівецька область", "english": "Chernivtsi oblast", "short": "CE", "country": "UA" },
 { "name": "Чернігівська область", "english": "Chernihiv oblast", "short": "CB", "country": "UA" },
-{ "name": "Київ", "english": "", "short": "AA", "country": "UA" },
+{ "name": "Київ", "english": "Kyiv", "short": "AA", "country": "UA" },
 { "name": "Севастополь", "english": "Sevastopol", "short": "CH", "country": "UA" }
 ]
 // short is for vehicles numbers
